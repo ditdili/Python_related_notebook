@@ -2,8 +2,6 @@ In this folder I collected my notes while studying the book [Fluent Python](http
 
 <IMG src='https://covers.oreillystatic.com/images/0636920032519/cat.gif'> <P>
 
-Publisher: O'Reilly Media
-
-Release Date: August 2015
-
-Pages: 750
+* Publisher: O'Reilly Media
+* Release Date: August 2015
+* Pages: 750
